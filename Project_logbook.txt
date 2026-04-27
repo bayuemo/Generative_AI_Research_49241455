@@ -1,0 +1,4 @@
+Project Logbook
+
+Initial entry:
+This file is used to track project updates and collaboration activities.
